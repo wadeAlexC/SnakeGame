@@ -6,8 +6,11 @@ increase in size, and avoid running into yourself or the wall!
 Other controls:
 
 'P': Pause the game
+
 '.': Raise the difficulty, or speed of the snake
+
 ',': Lower the difficulty, or speed of the snake
+
 
 Good luck, and have fun!
 
