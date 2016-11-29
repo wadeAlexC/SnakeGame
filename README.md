@@ -14,4 +14,8 @@ increase in size, and avoid running into yourself or the wall!
 
 Good luck, and have fun!
 
+About the code:
+
+This project is my first attempt at threaded programming. I wrote it over a period of a month and recently fixed bugs, clarified comments, and added some functionality in order to have a more professional project to push to my repository.
+
 Alex
