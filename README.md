@@ -3,7 +3,7 @@
 This is a Java remake of the classic arcade game "Snake." Use W,A,S, and D keys to move the Snake around. Eat blue food squares to
 increase in size, and avoid running into yourself or the wall!
 
-Other controls:
+<b>Other controls:</b>
 
 'P': Pause the game
 
