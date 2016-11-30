@@ -1,5 +1,3 @@
-package Snakev2;
-
 public class Grid {
 	
 	//Creates a new array of squares based on the game width and height
