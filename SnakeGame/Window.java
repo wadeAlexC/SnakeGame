@@ -1,5 +1,3 @@
-package Snakev2;
-
 import java.awt.Canvas;
 import java.awt.Container;
 import java.awt.Dimension;
