@@ -1,5 +1,3 @@
-package Snakev2;
-
 import java.awt.Graphics;
 import java.util.Random;
 
