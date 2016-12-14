@@ -14,7 +14,6 @@ increase in size, and avoid running into yourself or the wall!
 
 Good luck, and have fun!
 
--Alex
 
 
 <b>About the code:</b>
